@@ -1,0 +1,17 @@
+{
+  "releasenote": "Initial Release",
+  "license": "Apache",
+  "tags": [
+    "python",
+    "raspberryPI",
+    "GPIO"
+  ],
+  "url": "",
+  "version": "0.0.1",
+  "name": "hxGPIO",
+  "classPath":"src",
+  "description": "Haxe externs and utilities for working with rPI.GPIO",
+  "contributors": [
+    "varadig"
+  ]
+}
