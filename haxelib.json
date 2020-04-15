@@ -8,7 +8,7 @@
   ],
   "url": "",
   "version": "0.0.1",
-  "name": "hxGPIO",
+  "name": "GPIO.hx",
   "classPath":"src",
   "description": "Haxe externs and utilities for working with rPI.GPIO",
   "contributors": [
